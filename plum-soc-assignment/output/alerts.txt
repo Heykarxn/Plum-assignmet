@@ -1,0 +1,2 @@
+[ALERT] Possible brute-force attack on user 'user1' from IP 192.168.1.10 (3 failed attempts)
+[ALERT] Possible brute-force attack on user 'user2' from IP 10.0.0.5 (3 failed attempts)
